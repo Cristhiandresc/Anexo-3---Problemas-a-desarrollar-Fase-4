@@ -1,0 +1,44 @@
+from entidades import Entidad
+from excepciones import ClienteError
+
+
+class Cliente(Entidad):
+
+    def __init__(self, id_cliente, nombre, correo):
+
+        super().__init__(id_cliente)
+
+        self.nombre = nombre
+        self.correo = correo
+
+    @property
+    def nombre(self):
+        return self._nombre
+
+    @nombre.setter
+    def nombre(self, valor):
+
+        if not valor or len(valor.strip()) < 3:
+            raise ClienteError(
+                "Nombre inválido"
+            )
+
+        self._nombre = valor
+
+    @property
+    def correo(self):
+        return self._correo
+
+    @correo.setter
+    def correo(self, valor):
+
+        if "@" not in valor:
+            raise ClienteError(
+                "Correo inválido"
+            )
+
+        self._correo = valor
+
+    def mostrar_info(self):
+
+        return f"{self._nombre} - {self._correo}"
