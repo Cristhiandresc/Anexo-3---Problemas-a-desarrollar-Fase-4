@@ -1,0 +1,45 @@
+[2026-05-10 16:12:57.562460] Nombre inválido
+[2026-05-10 16:12:57.562620] Tarifa inválida
+[2026-05-10 16:12:57.562727] Reserva confirmada Carlos Perez
+[2026-05-10 16:12:57.562807] Proceso finalizado
+[2026-05-10 16:12:57.563031] Horas inválidas
+[2026-05-10 16:12:57.563220] Reserva confirmada Carlos Perez
+[2026-05-10 16:12:57.563320] Proceso finalizado
+[2026-05-10 16:12:57.563519] Reserva cancelada Carlos Perez
+[2026-05-10 16:12:57.563640] division by zero
+[2026-05-10 16:13:20.047614] Nombre inválido
+[2026-05-10 16:13:20.047812] Tarifa inválida
+[2026-05-10 16:13:20.047928] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:20.048013] Proceso finalizado
+[2026-05-10 16:13:20.048333] Horas inválidas
+[2026-05-10 16:13:20.048592] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:20.050044] Proceso finalizado
+[2026-05-10 16:13:20.050238] Reserva cancelada Carlos Perez
+[2026-05-10 16:13:20.050364] division by zero
+[2026-05-10 16:13:36.178299] Nombre inválido
+[2026-05-10 16:13:36.178506] Tarifa inválida
+[2026-05-10 16:13:36.178663] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:36.178830] Proceso finalizado
+[2026-05-10 16:13:36.179050] Horas inválidas
+[2026-05-10 16:13:36.179213] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:36.179348] Proceso finalizado
+[2026-05-10 16:13:36.179546] Reserva cancelada Carlos Perez
+[2026-05-10 16:13:36.179648] division by zero
+[2026-05-10 16:13:37.835206] Nombre inválido
+[2026-05-10 16:13:37.835463] Tarifa inválida
+[2026-05-10 16:13:37.835649] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:37.835739] Proceso finalizado
+[2026-05-10 16:13:37.835922] Horas inválidas
+[2026-05-10 16:13:37.836058] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:37.836192] Proceso finalizado
+[2026-05-10 16:13:37.836351] Reserva cancelada Carlos Perez
+[2026-05-10 16:13:37.836459] division by zero
+[2026-05-10 16:13:37.882544] Nombre inválido
+[2026-05-10 16:13:37.882693] Tarifa inválida
+[2026-05-10 16:13:37.882801] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:37.882886] Proceso finalizado
+[2026-05-10 16:13:37.883190] Horas inválidas
+[2026-05-10 16:13:37.883387] Reserva confirmada Carlos Perez
+[2026-05-10 16:13:37.883553] Proceso finalizado
+[2026-05-10 16:13:37.883772] Reserva cancelada Carlos Perez
+[2026-05-10 16:13:37.883872] division by zero
